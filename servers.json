@@ -55,6 +55,10 @@
     {
       "name": "crystall1nedev's server",
       "address": "https://anisette.crystall1ne.dev"
+    },
+    {
+      "name": "minxp",
+      "address": "http://192.168.0.113:6969"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
